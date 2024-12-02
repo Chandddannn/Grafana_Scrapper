@@ -1,0 +1,9 @@
+{
+    "cron_job_params": {
+      "selected_domain": "www.wisden.com",
+      "time_range": "6h",
+      "panel": "all",
+      "max_rows" : 10
+    }
+}
+  

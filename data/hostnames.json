@@ -1,0 +1,94 @@
+{
+    "all_hostnames": [
+        "All",
+        "www.fih.hockey",
+        "www.ecn.cricket",
+        "www.wisden.com",
+        "www.paralympic.org",
+        "www.indiansuperleague.com",
+        "www.mumbaiindians.com",
+        "www.kkr.in",
+        "www.knightclub.in",
+        "www.delhicapitals.in",
+        "www.rajasthanroyals.com",
+        "www.punjabkingsipl.in",
+        "www.gujarattitansipl.com",
+        "www.lucknowsupergiants.in",
+        "store.wisden.com",
+        "stg-ecn.sportz.io",
+        "oldwebsite.paralympic.org",
+        "stg-kc.sportz.io",
+        "stg.indiansuperleague.com",
+        "staging.wisden.com",
+        "stg-kkr.sportz.io",
+        "stg-punjab-kings.sportz.io",
+        "stg-sg.sportz.io",
+        "stg-fih.sportz.io",
+        "stg-gujarat-titans.sportz.io",
+        "staging.paralympic.org",
+        "uat.indiansuperleague.com",
+        "editor.paralympic.org",
+        "im-possible.paralympic.org",
+        "stg-dc.sportz.io"
+    ],
+    "domain_specific_hostnames": {
+        "wis": [
+            "www.wisden.com",
+            "store.wisden.com",
+            "staging.wisden.com"
+        ],
+        "mi": [
+            "www.mumbaiindians.com"
+        ],
+        "gt": [
+            "www.gujarattitansipl.com",
+            "stg-gujarat-titans.sportz.io"
+        ],
+        "kkr": [
+            "www.kkr.in",
+            "stg-kkr.sportz.io"
+        ],
+        "dc": [
+            "www.delhicapitals.in",
+            "stg-dc.sportz.io"
+        ],
+        "kxip": [
+            "www.punjabkingsipl.in",
+            "stg-punjab-kings.sportz.io"
+        ],
+        "lsg": [
+            "www.lucknowsupergiants.in",
+            "stg-sg.sportz.io"
+        ],
+        "rr": [
+            "www.rajasthanroyals.com"
+        ],
+        "isl": [
+            "www.indiansuperleague.com",
+            "stg.indiansuperleague.com",
+            "uat.indiansuperleague.com"
+        ],
+        "fih": [
+            "www.fih.hockey",
+            "stg-fih.sportz.io"
+        ],
+        "paralympic": [
+            "www.paralympic.org",
+            "oldwebsite.paralympic.org",
+            "staging.paralympic.org",
+            "editor.paralympic.org",
+            "im-possible.paralympic.org"
+        ],
+        "ecn": [
+            "www.ecn.cricket",
+            "stg-ecn.sportz.io"
+        ],
+        "kc": [
+            "www.knightclub.in",
+            "stg-kc.sportz.io"
+        ],
+        "others": [
+            "All"
+        ]
+    }
+}
